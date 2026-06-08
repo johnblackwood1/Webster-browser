@@ -7,7 +7,7 @@ It is licensed under the GNU GPL3 license.
 2. Change directory into the folder that git cloned the repo into
 3. Run python3 -m venv venv
 4. Run source venv/bin/activate
-5. Run pip install PyQt6
+5. Run pip install PyQt6 PyQt6-WebEngine
 Then your done!
 
 # Some known issues.
