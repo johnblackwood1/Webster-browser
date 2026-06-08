@@ -85,7 +85,7 @@ if __name__ == "__main__":
     app = QApplication(sys.argv)
 
 
-    window = webzillabrowser()
+    window = websterbrowser()
 
 
     window.show()
