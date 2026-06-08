@@ -1,8 +1,8 @@
-# Webzilla browser
-Webzilla is a browser made using python and PyQt6.
+# Webster browser
+Webster is a browser made using python and PyQt6.
 It is licensed under the GNU GPL3 license.
 
-# How to install Webzilla?
+# How to install Webster?
 1. Clone the repo onto your linux device.
 2. Change directory into the folder that git cloned the repo into
 3. Run python3 -m venv venv
