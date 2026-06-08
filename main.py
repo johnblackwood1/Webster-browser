@@ -16,10 +16,10 @@ ver = "2.0.1"
 
 starturl = "https://www.protopage.com/"
 
-class webzillabrowser(QMainWindow):
+class websterbrowser(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle(f"Webzilla browser | {ver}")
+        self.setWindowTitle(f"Webster browser | {ver}")
         self.browser = QWebEngineView()
         self.browser.setUrl(QUrl(starturl))
         self.setCentralWidget(self.browser)
